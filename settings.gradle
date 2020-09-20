@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SecondActivity"
+rootProject.name = "Home"

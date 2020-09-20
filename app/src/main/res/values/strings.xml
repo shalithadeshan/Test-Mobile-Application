@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">SecondActivity</string>
-    <string name="welcometosecond">Welcome to Second Activity</string>
-    <string name="gotohome">Go To Home</string>
+    <string name="app_name">Home</string>
+    <string name="gotonext">Go to next</string>
 </resources>
